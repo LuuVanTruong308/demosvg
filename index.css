@@ -1,0 +1,24 @@
+.container {
+    height: 500px;
+    display: flex;
+}
+
+.heading {
+    width: 150px;
+    border: 1px solid black;
+}
+
+.header {
+    text-align: center;
+}
+
+.list-option {
+    padding-left: 20px;
+}
+
+.view {
+    width: 700px;
+    height: 500px;
+    border:1px solid #000000;
+    margin-left: 20px
+}
